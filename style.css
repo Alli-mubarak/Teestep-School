@@ -504,7 +504,7 @@
         }
         .bg{
             background-image: linear-gradient( to right, rgb(255, 255, 255,0.95) 35%, rgba(0,0,0,0.05)),
-     url(../images/class2-1.jpg)  ;
+     url(class2-1.jpg)  ;
         }
         #schName{
             width: 50%;
