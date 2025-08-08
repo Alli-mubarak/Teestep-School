@@ -476,9 +476,10 @@
             color:blue;
         }
         #gmail{
-            width:50px;
+            width:70px;
             border-radius:30px;
         }
+#gmail p,#wa p,#fa p{font-size:12px; color:orange; }
        footer{
            background:rgba(0,0,0,0.3);
            text-align:center;
