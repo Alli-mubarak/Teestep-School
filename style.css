@@ -477,10 +477,10 @@
         }
         #gmail{
             width:60px;
-            border-radius:30px;
-            margin-bottom:15px;
+            border-radius:50%;
         }
 #gm p,#wa p,#fb p{font-size:12px; color:green; }
+#gm p{ transform:translateY(15px);}
        footer{
            background:rgba(0,0,0,0.3);
            text-align:center;
