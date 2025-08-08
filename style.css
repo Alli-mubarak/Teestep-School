@@ -476,8 +476,9 @@
             color:blue;
         }
         #gmail{
-            width:70px;
+            width:60px;
             border-radius:30px;
+            margin-bottom:15px;
         }
 #gm p,#wa p,#fb p{font-size:12px; color:green; }
        footer{
